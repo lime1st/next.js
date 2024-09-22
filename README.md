@@ -6,7 +6,8 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ## chapter 5 에서 난 에러
 
-'use client' 를 선언한 컴포넌트를 사용하는 곳에서도 'use client'를 같이 선언해 줘야 한
+'use client' 를 선언한 컴포넌트를 사용하는 곳에서도 'use client'를 같이 선언해 줘야 하는건가??
+15 chapter까지 완료하니까 에러가 사라졌다....
 
 ## chapter 6
 
